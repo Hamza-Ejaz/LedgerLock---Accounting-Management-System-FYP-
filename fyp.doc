@@ -1,0 +1,2001 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://hamzaejaz.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-10]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-10">Text defects in Product Type page</a>
+            <span class="subText">
+               Created: 22/Jan/24                   &nbsp;Updated: 22/Jan/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10027-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Expected Result:</b></p>
+
+<p>The name of the text box should be 'Product Type' and the text field in that box should have 'Enter Product Type' written in it."</p>
+
+<p><b>Actual Result:</b></p>
+
+<p>see in video 👇 </p>
+
+<p><a href="https://jam.dev/c/044fb274-d209-49ed-a662-a9e9870fdd2f" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/044fb274-d209-49ed-a662-a9e9870fdd2f</a> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-9]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-9">Add new user not working</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 25/Jan/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Highest
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10026-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://hamzaejaz.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20240125-034427.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Adding new users is not working properly, see video 👇 </p>
+
+<p><a href="https://jam.dev/c/8c26141f-6967-4363-bad9-c54318849090" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/8c26141f-6967-4363-bad9-c54318849090</a> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10001"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_commented_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">25/Jan/24</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10001"><td bgcolor="#ffffff">
+            <p><a href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c" class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c" data-account-id="712020:d4599cce-962f-4dee-815a-b9dda3fe136c" accountid="712020:d4599cce-962f-4dee-815a-b9dda3fe136c" rel="noreferrer">Muhammad Basit Mukhtar</a> I have just added a new user but it records a different time which you can see in the snapshot below 👇 </p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10005" height="792" width="1366" style="border: 0px solid black" /></span></p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-8]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-8">Column names alignment</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 25/Jan/24
+
+                                                    &nbsp;Resolved: 25/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Improvement
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10025-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>It will look better if the columns are center aligned.</p>
+
+
+
+<p>see video 👇 </p>
+
+<p><a href="https://jam.dev/c/ee08d04a-0289-40d9-b6b0-b9b726b7fd98" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/ee08d04a-0289-40d9-b6b0-b9b726b7fd98</a> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-7]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-7">UI/UX errors in Roles page</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 22/Jan/24
+
+                                                    &nbsp;Resolved: 22/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10024-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>For a detailed explanation of the errors on the Roles page, please see the video below 👇 </p>
+
+<p><a href="https://jam.dev/c/92c3f6e3-5633-47fe-a355-157055961a28" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/92c3f6e3-5633-47fe-a355-157055961a28</a>  </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-6]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-6">Defects in Accounts page</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 22/Jan/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10023-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>The video shows different defects on the accounts page 👇 </p>
+
+<p><a href="https://jam.dev/c/0a7d751d-c76f-4384-a8d3-c75805024d47" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/0a7d751d-c76f-4384-a8d3-c75805024d47</a> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10000"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_commented_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">22/Jan/24</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10000"><td bgcolor="#ffffff">
+            <p><a href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c" class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c" data-account-id="712020:d4599cce-962f-4dee-815a-b9dda3fe136c" accountid="712020:d4599cce-962f-4dee-815a-b9dda3fe136c" rel="noreferrer">Muhammad Basit Mukhtar</a> all errors are same as before except 1st one.</p>
+
+
+
+<p>see video 👇 </p>
+
+<p><a href="https://jam.dev/c/907fa3d6-44aa-4371-a396-e37ebdb502eb" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/907fa3d6-44aa-4371-a396-e37ebdb502eb</a> </p>
+        </td></tr>
+            </table>
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-5]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-5">A/C super type fixed</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 22/Jan/24
+
+                                                    &nbsp;Resolved: 22/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Highest
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10022-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>The account's super type "Asset" remains fixed, and whenever you set something, the list always shows "Asset," both when creating and editing an account type.</p>
+
+
+
+<p>see video 👇 </p>
+
+<p><a href="https://jam.dev/c/8bc5f793-db99-4b42-8777-5b96a02f291d" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/8bc5f793-db99-4b42-8777-5b96a02f291d</a> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-4]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-4">Issues in Account Type page</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 25/Jan/24
+
+                                                    &nbsp;Resolved: 25/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Improvement
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10021-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Accounts Type page has different UX issues, so we should work on those to provide a better user experience</p>
+
+
+
+<p>see video 👇 </p>
+
+<p><a href="https://jam.dev/c/a8c1e8ce-56d6-411e-adc8-abc3e24083d3" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/a8c1e8ce-56d6-411e-adc8-abc3e24083d3</a> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-3]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-3">App name cut</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 22/Jan/24
+
+                                                    &nbsp;Resolved: 22/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10020-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://hamzaejaz.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20240121-171228.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>The app name is getting cut from the bottom on the login page.</p>
+
+
+
+<p>see snapshot 👇 </p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10004" height="483" width="403" style="border: 0px solid black" /></span></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-2]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-2">App name cut in Side menu</a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 21/Jan/24
+
+                                                    &nbsp;Resolved: 21/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10019-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>When the side menu is closed, your app's name is getting cut off. You can adjust it or place a logo in that space for when the side menu is closed.</p>
+
+
+
+<p>see video 👇 </p>
+
+<p><a href="https://jam.dev/c/136ca975-0a83-4d1d-bb10-69202e28cfb7" title="smart-link" class="external-link" rel="nofollow noreferrer">https://jam.dev/c/136ca975-0a83-4d1d-bb10-69202e28cfb7</a> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLL-1]&nbsp;<a href="https://hamzaejaz.atlassian.net/browse/FLL-1">Welcome Message </a>
+            <span class="subText">
+               Created: 21/Jan/24                   &nbsp;Updated: 21/Jan/24
+
+                                                    &nbsp;Resolved: 21/Jan/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://hamzaejaz.atlassian.net/secure/BrowseProject.jspa?id=10003">FYP - LEDGER LOCK</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Improvement
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                id="word_reporter_712020:9bc87afb-c102-496f-a646-2495060ddd33"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9bc87afb-c102-496f-a646-2495060ddd33">
+                    Hamza Ejaz
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                id="word_assignee_712020:d4599cce-962f-4dee-815a-b9dda3fe136c"
+                href="https://hamzaejaz.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Ad4599cce-962f-4dee-815a-b9dda3fe136c">
+                    Muhammad Basit Mukhtar
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10018-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://hamzaejaz.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20240121-141921.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>It will be better if the welcome message is center aligned.</p>
+
+
+
+<p>see snapshot 👇</p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/10003" height="452" width="407" style="border: 0px solid black" /></span></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Wed Jun 26 14:20:43 UTC 2024 by Hamza Ejaz using Jira 1001.0.0-SNAPSHOT#100255-rev:bacf7ee6b0fe4f089a4d7331f0fd2279c0ec900d.
+
+</body>
+</html>
